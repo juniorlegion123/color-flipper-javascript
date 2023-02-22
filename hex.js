@@ -14,14 +14,14 @@ function getRandomNumber(){
     return Math.floor(Math.random() * hex.length)
 }
 
-function myFunction() {
-    btn.click();
-}
+// function myFunction() {
+//     btn.click();
+// }
 
 
-var changeColor = setInterval(function()  {
-    myFunction()    
-},1000/2);
+// var changeColor = setInterval(function()  {
+//     myFunction()    
+// },500);
 
 
 
